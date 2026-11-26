@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you refer to this research package, cite this version and the associated manuscript."
+title: "EAD-GraphRAG: A candidate-guided knowledge graph–text evidence integration framework for selective crop disease diagnosis"
+type: software
+version: 0.1.0
+date-released: 2026-11-26
+authors:
+  - family-names: Shu
+    given-names: Caijun
+  - family-names: Zhang
+    given-names: Lilian
+  - family-names: Gao
+    given-names: Lutao
+  - family-names: Wang
+    given-names: Cheng
+  - family-names: Luo
+    given-names: Tao
+  - family-names: Yang
+    given-names: Linnan
+abstract: "Minimal research package with selected original EAD-GraphRAG functions, manuscript-aligned D1 configuration, fictional examples, generic evaluation code and aggregate experimental results. Complete study data and model weights are excluded."
+keywords:
+  - crop disease diagnosis
+  - knowledge graph
+  - retrieval-augmented generation
+  - selective diagnosis
+  - reproducibility

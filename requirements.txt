@@ -1,0 +1,5 @@
+# Offline algorithm demonstration and archived metric functions.
+# This is a tested package dependency range, not the historical server lockfile.
+numpy>=1.24,<3
+networkx>=2.8.8,<4
+scipy>=1.10,<2

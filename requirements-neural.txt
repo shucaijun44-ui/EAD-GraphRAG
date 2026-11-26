@@ -1,0 +1,10 @@
+-r requirements.txt
+# Optional runtime integration; original server versions have not been verified.
+torch>=2.2,<3
+sentence-transformers>=3,<6
+transformers>=4.40,<5
+chromadb>=0.5,<2
+neo4j>=5,<6
+rank-bm25==0.2.2
+jieba==0.42.1
+accelerate>=0.30,<2

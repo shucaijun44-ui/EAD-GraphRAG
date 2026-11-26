@@ -1,0 +1,4 @@
+# Dependencies verified for the offline package, not the historical server.
+numpy==2.2.6
+networkx==3.4.2
+scipy==1.15.3
