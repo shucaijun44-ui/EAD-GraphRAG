@@ -1,0 +1,10 @@
+{
+  "kind": "newly authored fictional software-test fixtures",
+  "not_from_study_data": true,
+  "is_evaluation_benchmark": false,
+  "case_count": 8,
+  "chunk_count": 3,
+  "triple_count": 22,
+  "uses_predefined_mentions_and_crossencoder_scores": true,
+  "purpose": "Exercise candidate weighting, PPR, graph-text fusion and D1 decisions offline; not estimate scientific performance"
+}

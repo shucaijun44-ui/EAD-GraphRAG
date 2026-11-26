@@ -1,0 +1,3 @@
+{"id": "synthetic-chunk-1", "text": "虚构测试条目：番茄示例甲病。仅用于软件测试的关联线索：环形示例斑、叶背示例点、示例高湿。这些名称和关系不代表真实农业诊断知识。", "disease": "番茄示例甲病", "crop": "番茄", "type": "symptom", "synthetic": true}
+{"id": "synthetic-chunk-2", "text": "虚构测试条目：番茄示例乙病。仅用于软件测试的关联线索：环形示例斑、茎部示例线、示例高湿。这些名称和关系不代表真实农业诊断知识。", "disease": "番茄示例乙病", "crop": "番茄", "type": "symptom", "synthetic": true}
+{"id": "synthetic-chunk-3", "text": "虚构测试条目：黄瓜示例丙病。仅用于软件测试的关联线索：稀疏示例点、示例温暖。这些名称和关系不代表真实农业诊断知识。", "disease": "黄瓜示例丙病", "crop": "黄瓜", "type": "symptom", "synthetic": true}
