@@ -1,0 +1,192 @@
+{
+  "runtime_sha256": "4de9fa9c66ee77f14c3c4b0b08dc15d82690d30d7d4a971087435d6ef658bd03",
+  "runtime_role": "archived external-evaluation runtime; local archival filename EAD_runtime.py",
+  "functions": [
+    {
+      "function": "_stable_sigmoid",
+      "source_lines": [
+        360,
+        363
+      ],
+      "source_text_sha256": "6fc9d3b07c0d65541b12028091f2d027cb8bd8b36f7e883755d82b4ce52bef2c",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "build_entity_profiles",
+      "source_lines": [
+        366,
+        403
+      ],
+      "source_text_sha256": "957c314649718eeeaf97baa2153909beadb5bf59513bdd8b726bee8ce0aeb315",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "build_vector_where",
+      "source_lines": [
+        475,
+        492
+      ],
+      "source_text_sha256": "524fb85bc9617340e2fc4094ba46824091286410f6e683da91ebfad46c723938",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "vector_search_adaptive",
+      "source_lines": [
+        495,
+        540
+      ],
+      "source_text_sha256": "73200dacd318e5a542f758b23532dab44d45bc7c40a848314f3d74d3840306b2",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "resolve_taxonomy_crops",
+      "source_lines": [
+        545,
+        562
+      ],
+      "source_text_sha256": "8f441159f39ddc0443183931dbe8a1e70cdadd1258c82ba34792db31123dc971",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "is_real_disease",
+      "source_lines": [
+        564,
+        575
+      ],
+      "source_text_sha256": "5fbcba2a6a1254898e200791809ade7465095b40365d5c406e86e32a4aef7753",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "infer_disease_by_graph_symptoms",
+      "source_lines": [
+        577,
+        627
+      ],
+      "source_text_sha256": "80ebca7457d3aab7dc9f9079313905115db9a72eade6e4e0e8412fd669f2dec2",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "rescore_differential_diagnosis",
+      "source_lines": [
+        629,
+        686
+      ],
+      "source_text_sha256": "8bed901c4e73dbfa659f415a3b63299f36fa4bfd6dbd4cfa97fa2f101c776ed5",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "assess_diagnosis_uncertainty",
+      "source_lines": [
+        855,
+        905
+      ],
+      "source_text_sha256": "9f9dc8dcb812ea81fb8778feaf94d283f605f3fc5decc39d773301ad0de5be82",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "build_kg_clarification_question",
+      "source_lines": [
+        907,
+        936
+      ],
+      "source_text_sha256": "50cddbec76ead238eb9d4dae3f3c6e9553fec4d2e3db74c58f190d8a436025c1",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "_heuristic_primary_intent",
+      "source_lines": [
+        941,
+        947
+      ],
+      "source_text_sha256": "ca5d38d23a7529afba4076271bf33ea80b4f00772b894785a895bd3dd7e2311a",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "llm_query_parser",
+      "source_lines": [
+        950,
+        1025
+      ],
+      "source_text_sha256": "333cf572eff3f48c4fcef2509491003d6e9ae50640b526e03b6573bae3955dbf",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "_mention_type_prior",
+      "source_lines": [
+        1030,
+        1044
+      ],
+      "source_text_sha256": "d82b3298b6654c57a303b220847c71b261f740118d2c4b187117e27928802353",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "_crop_compatibility_prior",
+      "source_lines": [
+        1047,
+        1053
+      ],
+      "source_text_sha256": "e690e4f1d62967bd89234e451fe8ce8ea517f877d7ee2d00c50ae9c09bd88082",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "augment_with_literal_entity_mentions",
+      "source_lines": [
+        1056,
+        1074
+      ],
+      "source_text_sha256": "5ee932f2c362530dae3e5fd7cf53114e17da24a2125e823a92b8a1271543ac4a",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "semantic_entity_linking",
+      "source_lines": [
+        1077,
+        1336
+      ],
+      "source_text_sha256": "74d74c09d70afaa7c99e88fda83c9bb0ce7d25baa42316d0d2bc62d335f2af74",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "select_graph_traversal_seeds",
+      "source_lines": [
+        1339,
+        1443
+      ],
+      "source_text_sha256": "11ae6cb7d8da32cd04cea695f916fc8b350125207dbba0895de6ac9069677504",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "graph_search_adaptive",
+      "source_lines": [
+        1449,
+        1594
+      ],
+      "source_text_sha256": "ba98b87cacabd78a5afeab35977d347962aeb5e630ec3f31a5dea11d21d86583",
+      "transformation": "verbatim function body and signature"
+    },
+    {
+      "function": "decoupled_rerank_system",
+      "source_lines": [
+        2067,
+        2094
+      ],
+      "source_text_sha256": "697fd97122749e872c7af267c5313ab0e76906206df73939aa853c17f8c5afda",
+      "transformation": "verbatim function body and signature"
+    }
+  ],
+  "additional_helper": {
+    "function": "score_local_paths",
+    "source_lines": [
+      1540,
+      1594
+    ],
+    "transformation": "original graph-scoring tail with a new input wrapper; Neo4j traversal is bypassed"
+  },
+  "configuration_changes": [
+    "Explicit manuscript D1 minimum support = 2 and margin = 0.20",
+    "Explicit manuscript disease-fusion weights = 0.40/0.30/0.30",
+    "Removed server initialization, credentials, automatic downloads, cache rebuilds and interactive UI",
+    "Omitted optional disease-level cross-encoder and post-hoc graph-evidence display selector"
+  ],
+  "identity_claim": "Selected source functions are preserved. New wrappers and fixtures are not the original frozen experiment environment."
+}

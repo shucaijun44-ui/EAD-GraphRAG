@@ -1,0 +1,7 @@
+{
+  "source_role": "archived final-ablation generic evaluation functions",
+  "source_sha256": "e6ddbd885a92214729a83a54fc8c638f15167ef58d883ae6184ba9a00cd85fab",
+  "transformation": "verbatim module, UTF-8/LF newline normalization only",
+  "strict_metric": "Triple Recall@10 is exact directed-triple matching after expanding the top 10 paths",
+  "legacy_metric": "Legacy Triple Substring Recall@10 is retained and explicitly separate; it is not the strict endpoint"
+}

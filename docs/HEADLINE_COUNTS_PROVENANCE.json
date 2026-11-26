@@ -1,0 +1,10 @@
+{
+  "operation": "Exact rank histograms computed locally from archived outcomes; checked against corresponding aggregate tables",
+  "source_sha256": {
+    "internal_gold": "34fc26266990d99002d139f57c5cf439c1101465989ea08139fc2fe613050623",
+    "internal_predictions": "532d2eef3aa1a0505afa4aa71e35222cdc95fc272959d39e3b80fa0a4bc47a63",
+    "external_scored_cases": "d953d4c779e46972e6be6eab390f7df348a476684eff318fa973eb8e9a0597ea"
+  },
+  "disclosure": "Two aggregate rows only. No questions, answers, disease labels, record IDs, URLs, clusters or per-case results exported.",
+  "limitation": "Counts reproduce point estimates only; they cannot reproduce cluster-bootstrap intervals or paired tests."
+}
