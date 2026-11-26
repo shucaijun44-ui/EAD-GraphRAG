@@ -1,0 +1,8 @@
+{
+  "kg": "restricted/kg.jsonl",
+  "chunks": "restricted/chunks.jsonl",
+  "encoder": "restricted/models/bge-small-zh-agri",
+  "reranker": "restricted/models/bge-reranker-base",
+  "llm": "restricted/models/Qwen2.5-7B-Instruct",
+  "device": "cuda"
+}
